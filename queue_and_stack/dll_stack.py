@@ -24,9 +24,9 @@ class Stack:
         return self.size
 
 
-stk = Stack()
-print(stk.push(11), stk.push(12))
-print(stk.pop())
-print(stk.pop())
-print(stk.push(13), stk.push(14), stk.push(15))
-print(stk.len())
+# stk = Stack()
+# print(stk.push(11), stk.push(12))
+# print(stk.pop())
+# print(stk.pop())
+# print(stk.push(13), stk.push(14), stk.push(15))
+# print(stk.len())

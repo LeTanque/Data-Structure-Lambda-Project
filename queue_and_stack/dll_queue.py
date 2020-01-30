@@ -51,7 +51,7 @@ class Queue:
 
 # Store the class in a variable
 # All the cool kids are doing it
-q = Queue()
+# q = Queue()
 ###################################
 # # 10
 # # head
@@ -66,7 +66,7 @@ q = Queue()
 # # 12 <-> 13
 # # tail   head
 ###################################
-print(q.enqueue(10), q.enqueue(11), q.enqueue(12), q.enqueue(13))
-print(q.dequeue())  # Results in 10, the tail removed
-print(q.dequeue())  # Results in 10, the tail removed
-print(q.len())  # 2
+# print(q.enqueue(10), q.enqueue(11), q.enqueue(12), q.enqueue(13))
+# print(q.dequeue())  # Results in 10, the tail removed
+# print(q.dequeue())  # Results in 10, the tail removed
+# print(q.len())  # 2
